@@ -1,0 +1,6 @@
+C:\Users\TALEC\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csprojAssemblyReference.cache
+C:\Users\TALEC\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe.config
+C:\Users\TALEC\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchBot.exe
+C:\Users\TALEC\source\repos\TwitchBot\TwitchBot\bin\Debug\TwitchBot.pdb
+C:\Users\TALEC\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.exe
+C:\Users\TALEC\source\repos\TwitchBot\TwitchBot\obj\Debug\TwitchBot.pdb
